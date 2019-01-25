@@ -1,0 +1,5 @@
+#! /bin/sh
+# Type ./update to run this file
+
+git add remote upstream https://github.com/chicomath314/hw03
+git pull upstream master
